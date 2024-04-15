@@ -1,5 +1,5 @@
 # Fork Comments
-In this for I added my personal solutions for the excercises in the folder `PySpark_Solutions`
+In this fork I added my solutions for the exercises in the folder `PySpark_Solutions`
 I ignored some of the exercises because of duplicities.
 
 # Pyspark Exercises
